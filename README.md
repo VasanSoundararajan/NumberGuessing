@@ -17,25 +17,45 @@ The solution is simply based on thhe conditional statments like if else and loop
 sample usage
 ... \NumberGuessing>python main.py
 Welcome to the Guessing Game!
+
 I'm thinking of a number between 1 and 100.
+
 You have to guess the number in as few attempts as possible based on the level.
+
 Choose a level (easy(10), medium(5), hard(3)): 1
+
 you have choose easy level
+
 Enter your Guess 10
-The number is less than  10
+
+The number is less than 10
+
 Enter your Guess 30
-The number is greater than  30
+
+The number is greater than 30
+
 Enter your Guess 20
-The number is greater than  20
+
+The number is greater than 20
+
 Enter your Guess 15
-The number is greater than  15
+
+The number is greater than 15
+
 Enter your Guess 11
-The number is less than  11
+
+The number is less than 11
+
 Enter your Guess 12
-The number is less than  12
+
+The number is less than 12
+
 Enter your Guess 13
-The number is less than  13
+
+The number is less than 13
+
 Enter your Guess 14
+
 Congratulations, you guessed the number in 8 attempts!
 
 # Profiles links
